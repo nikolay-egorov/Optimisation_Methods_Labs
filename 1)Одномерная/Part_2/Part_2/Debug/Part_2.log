@@ -1,0 +1,28 @@
+﻿  Source.cpp
+c:\users\user\documents\учеба\3 курс\методы оптимизации\1)одномерная\part_2\part_2\source.cpp(110): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\documents\учеба\3 курс\методы оптимизации\1)одномерная\part_2\part_2\source.cpp(113): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\documents\учеба\3 курс\методы оптимизации\1)одномерная\part_2\part_2\source.cpp(127): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\documents\учеба\3 курс\методы оптимизации\1)одномерная\part_2\part_2\source.cpp(137): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\documents\учеба\3 курс\методы оптимизации\1)одномерная\part_2\part_2\source.cpp(147): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\documents\учеба\3 курс\методы оптимизации\1)одномерная\part_2\part_2\source.cpp(150): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\documents\учеба\3 курс\методы оптимизации\1)одномерная\part_2\part_2\source.cpp(155): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\documents\учеба\3 курс\методы оптимизации\1)одномерная\part_2\part_2\source.cpp(160): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\documents\учеба\3 курс\методы оптимизации\1)одномерная\part_2\part_2\source.cpp(107): warning C4101: x_temp: неиспользованная локальная переменная
+c:\users\user\documents\учеба\3 курс\методы оптимизации\1)одномерная\part_2\part_2\source.cpp(107): warning C4101: y_temp: неиспользованная локальная переменная
+c:\users\user\documents\учеба\3 курс\методы оптимизации\1)одномерная\part_2\part_2\source.cpp(181): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\user\documents\учеба\3 курс\методы оптимизации\1)одномерная\part_2\part_2\source.cpp(223): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\documents\учеба\3 курс\методы оптимизации\1)одномерная\part_2\part_2\source.cpp(226): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\documents\учеба\3 курс\методы оптимизации\1)одномерная\part_2\part_2\source.cpp(240): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\documents\учеба\3 курс\методы оптимизации\1)одномерная\part_2\part_2\source.cpp(250): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\documents\учеба\3 курс\методы оптимизации\1)одномерная\part_2\part_2\source.cpp(259): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\documents\учеба\3 курс\методы оптимизации\1)одномерная\part_2\part_2\source.cpp(262): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\documents\учеба\3 курс\методы оптимизации\1)одномерная\part_2\part_2\source.cpp(267): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\documents\учеба\3 курс\методы оптимизации\1)одномерная\part_2\part_2\source.cpp(272): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\documents\учеба\3 курс\методы оптимизации\1)одномерная\part_2\part_2\source.cpp(204): warning C4101: x_temp: неиспользованная локальная переменная
+c:\users\user\documents\учеба\3 курс\методы оптимизации\1)одномерная\part_2\part_2\source.cpp(218): warning C4101: i: неиспользованная локальная переменная
+c:\users\user\documents\учеба\3 курс\методы оптимизации\1)одномерная\part_2\part_2\source.cpp(204): warning C4101: y_temp: неиспользованная локальная переменная
+c:\users\user\documents\учеба\3 курс\методы оптимизации\1)одномерная\part_2\part_2\source.cpp(368): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\user\documents\учеба\3 курс\методы оптимизации\1)одномерная\part_2\part_2\source.cpp(387): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\documents\учеба\3 курс\методы оптимизации\1)одномерная\part_2\part_2\source.cpp(364): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(242): note:  см. объявление "freopen"
+  Part_2.vcxproj -> C:\Users\User\Documents\Учеба\3 курс\Методы оптимизации\1)Одномерная\Part_2\Debug\Part_2.exe

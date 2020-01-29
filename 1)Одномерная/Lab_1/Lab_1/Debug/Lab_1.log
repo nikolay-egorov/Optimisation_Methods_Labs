@@ -1,0 +1,6 @@
+﻿  Lab_1.cpp
+c:\users\user\documents\учеба\3 курс\методы оптимизации\1)одномерная\lab_1\lab_1\lab_1.cpp(136): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\user\documents\учеба\3 курс\методы оптимизации\1)одномерная\lab_1\lab_1\lab_1.cpp(182): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(242): note:  см. объявление "freopen"
+c:\users\user\documents\учеба\3 курс\методы оптимизации\1)одномерная\lab_1\lab_1\lab_1.cpp(179): warning C4101: c: неиспользованная локальная переменная
+  Lab_1.vcxproj -> C:\Users\User\Documents\Учеба\3 курс\Методы оптимизации\1)Одномерная\Lab_1\Debug\Lab_1.exe

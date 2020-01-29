@@ -1,0 +1,32 @@
+0.00000001
+Number of calls: 58
+Number of calls: 41
+Number of calls: 43
+0.00000010
+Number of calls: 52
+Number of calls: 37
+Number of calls: 38
+0.00000100
+Number of calls: 44
+Number of calls: 32
+Number of calls: 33
+0.00001000
+Number of calls: 38
+Number of calls: 27
+Number of calls: 28
+0.00010000
+Number of calls: 32
+Number of calls: 23
+Number of calls: 24
+0.00100000
+Number of calls: 24
+Number of calls: 18
+Number of calls: 19
+0.01000000
+Number of calls: 18
+Number of calls: 13
+Number of calls: 14
+0.10000000
+Number of calls: 12
+Number of calls: 9
+Number of calls: 9

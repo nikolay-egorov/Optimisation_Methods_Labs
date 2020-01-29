@@ -1,0 +1,32 @@
+0.000000
+Number of iter: 29
+Number of iter: 40
+Number of iter: 42
+0.000000
+Number of iter: 26
+Number of iter: 36
+Number of iter: 37
+0.000001
+Number of iter: 22
+Number of iter: 31
+Number of iter: 32
+0.000010
+Number of iter: 19
+Number of iter: 26
+Number of iter: 27
+0.000100
+Number of iter: 16
+Number of iter: 22
+Number of iter: 23
+0.001000
+Number of iter: 12
+Number of iter: 17
+Number of iter: 18
+0.010000
+Number of iter: 9
+Number of iter: 12
+Number of iter: 13
+0.100000
+Number of iter: 6
+Number of iter: 7
+Number of iter: 8

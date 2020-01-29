@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\user\documents\учеба\3 курс\методы оптимизации\2)беллмана\shortest_path\shortest_path\source.cpp(69): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\documents\учеба\3 курс\методы оптимизации\2)беллмана\shortest_path\shortest_path\source.cpp(83): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\documents\учеба\3 курс\методы оптимизации\2)беллмана\shortest_path\shortest_path\source.cpp(47): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(242): note:  см. объявление "freopen"
+  Shortest_path.vcxproj -> C:\Users\User\Documents\Учеба\3 курс\Методы оптимизации\2)Беллмана\Shortest_path\Debug\Shortest_path.exe

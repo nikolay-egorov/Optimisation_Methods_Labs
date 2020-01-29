@@ -1,0 +1,7 @@
+Optimal solution 
+Supplier number 1 route:
+20 - 5 
+Supplier number 2 route:
+- 30 5 
+
+Total costs:  180.0
